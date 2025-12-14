@@ -1,0 +1,13 @@
+body{
+    background-color: aqua;
+    background-image: url(https://i.pinimg.com/236x/fa/32/95/fa329508b269b1f1951964d48a6cde30.jpg);
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-size: cover;
+    /* short hand */
+    background: gray no-repeat cover url(https://i.pinimg.com/236x/fa/32/95/fa329508b269b1f1951964d48a6cde30.jpg);
+/* imagebackground not move */
+background-attachment: fixed;
+
+
+}
