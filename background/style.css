@@ -1,13 +1,8 @@
-body{
-    background-color: aqua;
-    background-image: url(https://i.pinimg.com/236x/fa/32/95/fa329508b269b1f1951964d48a6cde30.jpg);
+body {background-color: rgb(202, 202, 247);
+    
+    background-image: url(https://i.pinimg.com/236x/f8/9f/86/f89f86e80142c7e5f0b2c57282cc175f.jpg);
+
     background-repeat: no-repeat;
-    background-position: top right;
-    background-size: cover;
-    /* short hand */
-    background: gray no-repeat cover url(https://i.pinimg.com/236x/fa/32/95/fa329508b269b1f1951964d48a6cde30.jpg);
-/* imagebackground not move */
-background-attachment: fixed;
 
 
 }

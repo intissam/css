@@ -1,0 +1,51 @@
+h1 {
+    /* short hand */
+    border: brown 10px solid ;
+    border-style: solid;
+border-width: 10px;
+border-color: black;
+border-radius: 20px;
+/* border-top-style: dashed; */
+
+outline-style:dashed;
+
+outline-width: 10px;
+
+outline-color:teal;
+outline-offset: 8px;
+
+}
+
+/* CSS OUTLINE STYLE  */
+p{
+/* border: 10px solid black;
+outline-width: thick;
+outline-style: dashed;
+outline-color: blueviolet; */
+
+/* border: 10px solid black;
+outline-width: thin;
+outline-style: dotted;
+outline-color: rgb(91, 216, 164); */
+
+border: 10px solid rgb(133, 118, 54);
+outline-width: medium;
+outline-style: groove;
+outline-color: teal ;
+outline-offset: 5px;
+}
+/* CSS OUTLINE offset  */
+div {
+margin: 10px;
+background-color: crimson;
+border: 2px solid white;
+outline: 1px solid;
+outline-offset: 15px;
+}
+
+span {
+    border-color: blueviolet seagreen navy burlywood;
+    border-style: solid;
+   
+}
+

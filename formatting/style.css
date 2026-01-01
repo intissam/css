@@ -1,0 +1,27 @@
+h4{
+    color: chartreuse;
+    text-align: center;
+    text-decoration:underline ;
+    text-transform:uppercase;
+    font-size: 70px;
+    text-shadow: 6px 8px 3px gray;
+}
+h1 {
+border: 1px solid teal;
+text-align: center;
+}
+h2 {
+border: 1px solid rgb(120, 207, 21);
+text-align: left;
+}
+h3 {
+border: 1px solid rgb(190, 29, 123);
+text-align: right;
+}
+p{
+    text-indent: 50px;
+    letter-spacing: 50px;
+    white-space: 5px;
+    word-spacing: normal;
+    line-height: px;
+}
